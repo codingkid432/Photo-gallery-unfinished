@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#mainphoto{
+    width:999px;
+    margin-bottom: 5px;
+}
+.photos{
+    width:400px;
+    height: 400px;
+}
